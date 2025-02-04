@@ -45,7 +45,7 @@ const Home = () => {
           </form>
         </div>
         <footer>
-          <h4>Built with 💝 by <a href="*">Karunya </a>  </h4>
+          <h4>Built with 💝 by <a href="*">Shiva</a>  </h4>
         </footer>
       </div>
     </>
